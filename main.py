@@ -41,7 +41,7 @@ banner = ("""
                                         d8'                                     
   Test amaçlı yazılmış kodtur. İletişim için 
   Instagram: @aoaydin
-   Telegram: @xleatz 
+   Telegram: @aoaydinn 
          
 """)
 
@@ -69,7 +69,7 @@ class Credentials:
                                         d8'                                     
   Test amaçlı yazılmış kodtur. İletişim için 
   Instagram: @aoaydin
-   Telegram: @xleatz """)
+   Telegram: @aoaydinn """)
 credentials = Credentials()
 def login():
     session.headers.update({
